@@ -37,7 +37,6 @@ class Program
         foreach (var person in result)
         Console.WriteLine(person.Name);     
 
-
         Console.WriteLine("Finished processing. Press a key to end.");
         Console.ReadKey();
     }
