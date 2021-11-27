@@ -1,0 +1,15 @@
+C:\Users\se_ja\Desktop\Parallel LINQ\bin\Debug\net6.0\Parallel LINQ.exe
+C:\Users\se_ja\Desktop\Parallel LINQ\bin\Debug\net6.0\Parallel LINQ.deps.json
+C:\Users\se_ja\Desktop\Parallel LINQ\bin\Debug\net6.0\Parallel LINQ.runtimeconfig.json
+C:\Users\se_ja\Desktop\Parallel LINQ\bin\Debug\net6.0\Parallel LINQ.dll
+C:\Users\se_ja\Desktop\Parallel LINQ\bin\Debug\net6.0\ref\Parallel LINQ.dll
+C:\Users\se_ja\Desktop\Parallel LINQ\bin\Debug\net6.0\Parallel LINQ.pdb
+C:\Users\se_ja\Desktop\Parallel LINQ\obj\Debug\net6.0\Parallel LINQ.csproj.AssemblyReference.cache
+C:\Users\se_ja\Desktop\Parallel LINQ\obj\Debug\net6.0\Parallel LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\se_ja\Desktop\Parallel LINQ\obj\Debug\net6.0\Parallel LINQ.AssemblyInfoInputs.cache
+C:\Users\se_ja\Desktop\Parallel LINQ\obj\Debug\net6.0\Parallel LINQ.AssemblyInfo.cs
+C:\Users\se_ja\Desktop\Parallel LINQ\obj\Debug\net6.0\Parallel LINQ.csproj.CoreCompileInputs.cache
+C:\Users\se_ja\Desktop\Parallel LINQ\obj\Debug\net6.0\Parallel LINQ.dll
+C:\Users\se_ja\Desktop\Parallel LINQ\obj\Debug\net6.0\ref\Parallel LINQ.dll
+C:\Users\se_ja\Desktop\Parallel LINQ\obj\Debug\net6.0\Parallel LINQ.pdb
+C:\Users\se_ja\Desktop\Parallel LINQ\obj\Debug\net6.0\Parallel LINQ.genruntimeconfig.cache
